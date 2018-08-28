@@ -1,4 +1,4 @@
-# INF554 HW1 README.md Zhaoyang Li
+# INF554 HW1 Zhaoyang Li
 ## Link to the Google Sheet File
 Here's the [link to my google sheet](https://docs.google.com/spreadsheets/d/1PpNOHrBTYcJJSpkW7o-PUCBQ2v_BwFWjz3KgY3_jtd4/edit#gid=0).
 ## How-tos
